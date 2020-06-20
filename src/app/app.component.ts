@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'inputoutput2';
+  title = 'inpout';
+
+  msg : string = "Mensagem de App para aluno, estudem Angular";
+  
 }
